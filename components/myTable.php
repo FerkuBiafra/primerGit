@@ -15,5 +15,15 @@
             <td>Gómez</td>
             <td>Pérez</td>
         </tr>
+        <tr>
+            <td>Juan</td>
+            <td>Direction</td>
+            <td>11111111</td>
+        </tr>
+        <tr>
+            <td>John</td>
+            <td>Doe</td>
+            <td>123445555</td>
+        </tr>
     </tbody>
 </table>
