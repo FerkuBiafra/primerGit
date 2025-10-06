@@ -1,0 +1,19 @@
+<table>
+    <thead>
+        <tr>Name</tr>
+        <tr>Last name</tr>
+        <tr>Telephone</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Juan</td>
+            <td>Valdez</td>
+            <td>1234566778</td>
+        </tr>
+        <tr>
+            <td>Jesús</td>
+            <td>Gómez</td>
+            <td>Pérez</td>
+        </tr>
+    </tbody>
+</table>
